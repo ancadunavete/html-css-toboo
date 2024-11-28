@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+html{
+    font-family: Josefin sans, sans-serif; 
+}
+
+body{
+    background-color: indianred;
+}
+
+header{
+    background-color: antiquewhite;
+    padding: 30px;
+}
+
+h1{
+    display: inline-block;
+}
+
+header img,
+header h1{
+    vertical-align: middle;
+}
+
